@@ -1,8 +1,8 @@
 {
-  "name": "@nestjsplus/nestjs-package-starter",
+  "name": "@marcoparedes/nestjs-package-starter",
   "version": "1.0.0",
   "description": "NestJS npm package starter",
-  "author": "John Biundo <johnfbiundo@gmail.com>",
+  "author": "Marco Paredes <marcop_93_04@hotmail.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
   "main": "dist/test.js",
@@ -29,9 +29,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nestjsplus/nestjs-package-starter"
+    "url": "https://github.com/MarcoParedes/nestjs-package-starter"
   },
-  "bugs": "https://github.com/nestjsplus/nestjs-package-starter",
+  "bugs": "https://github.com/MarcoParedes/nestjs-package-starter",
   "peerDependencies": {
     "@nestjs/common": "^6.0.0"
   },
